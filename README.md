@@ -12,7 +12,7 @@ I’m interning at **Revvity**, working on healthcare AI agents.
 
 **[KeyFortly ↗](https://keyfortly.com/)** · Around **30 landlords and 2 property management businesses** pay for the property management software I built. It helps Ontario landlords track rent, manage leases, and keep up with provincial paperwork.
 
-**[Findr ↗](https://github.com/Vishnu123vis/Findr)** · Finding a hackathon teammate is easier when you know what each person brings. We built Findr to turn résumés into skills profiles and match hackers with complementary teammates. It won a **MongoDB award**.
+**[Findr ↗](https://github.com/Vishnu123vis/Findr)** · Finding a hackathon teammate is easier when you know what each person brings. We built Findr to turn résumés into skills profiles and match hackers with complementary teammates. 
 
 **[Serverless e-commerce ↗](https://github.com/Vishnu123vis/serverless-ecommerce-platform)** · An event-driven shop I built on AWS. I used a single-table DynamoDB design and Lambda functions for workflows like sending order emails.
 
