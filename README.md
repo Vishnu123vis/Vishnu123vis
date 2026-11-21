@@ -8,7 +8,7 @@ I’m interning at **Revvity**, working on healthcare AI agents.
 
 ## Things I’ve built
 
-**[Dispatchient ↗](https://dispatchient.com/)** · I’m scaling Dispatchient to help property managers coordinate repairs. When a tenant texts a photo of a leak, the agent gathers details and drafts a message to the plumber. The manager can approve it or take over the conversation.
+**[Dispatchient ↗](https://dispatchient.com/)** · I’m scaling Dispatchient to help property managers coordinate repairs. 
 
 **[KeyFortly ↗](https://keyfortly.com/)** · Around **30 landlords and 2 property management businesses** pay for the property management software I built. It helps Ontario landlords track rent, manage leases, and keep up with provincial paperwork.
 
